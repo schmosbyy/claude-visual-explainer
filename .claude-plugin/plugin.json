@@ -1,0 +1,9 @@
+{
+  "name": "visual-explainer",
+  "version": "1.0.0",
+  "description": "Produce a single self-contained interactive HTML page that explains a topic, and open it in the user's browser. Encode the plumbing; spend effort on what to visualize.",
+  "author": {
+    "name": "Sakaar"
+  },
+  "keywords": ["explain", "visual", "visually", "show it"]
+}
